@@ -1,7 +1,7 @@
 # Kubinex-Back
 [![Build Status](https://travis-ci.com/The-Kubinex/Kubinex-Back.svg?branch=main)](https://travis-ci.com/The-Kubinex/Kubinex-Back)
 [![codecov](https://codecov.io/gh/The-Kubinex/Kubinex-Back/branch/master/graph/badge.svg)](https://codecov.io/gh/The-Kubinex/Kubinex-Back)
-[![CodeFactor](https://www.codefactor.io/repository/github/the-Kubinex/Kubinex-back/badge)](https://www.codefactor.io/repository/github/the-Kubinex/Kubinex-back)
+[![CodeFactor](https://www.codefactor.io/repository/github/the-Kubinex/Kubinex-back/badge)]
 
 
 **Local Install**
